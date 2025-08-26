@@ -1,7 +1,5 @@
 # REV-AI
 
-# 🚀 Revolt Motors Voice Chatbot (Gemini Live API)
-
 ## 📌 Project Overview
 This project replicates the **Revolt Motors "Rev" Voice Assistant** using the **Gemini Live API**.  
 It provides a **real-time conversational voice interface** where users can:
